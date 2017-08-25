@@ -4,3 +4,4 @@ GitHub Usernames for Soton ECS 2017 year group
 # Usernames
 
 * ducsuus
+* lockwooda
