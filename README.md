@@ -5,3 +5,4 @@ GitHub Usernames for Soton ECS 2017 year group
 
 * Joe Mattelaer - [ducsuus](https://github.com/ducsuus/)
 * Dan Trickey - [trickeydan](https://github.com/trickeydan/)
+* Alex Lockwood - [lockwooda](https://github.com/lockwooda/)
