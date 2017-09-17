@@ -8,5 +8,6 @@ GitHub Usernames for Soton ECS 2017 year group
 * Alex Lockwood - [lockwooda](https://github.com/lockwooda/)
 * Andronache Simone - [redducks100](https://github.com/redducks100)
 * Joshua Tyler-Jones - [J15t98J](https://github.com/J15t98J)
+* Byron Theobald - [btheobald](https://github.com/btheobald)
 * Atanas Yankov - [atanunq](https://github.com/atanunq)
 * Kemal - [kyesildagli](https://github.com/kyesildagli)
