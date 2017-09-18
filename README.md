@@ -11,3 +11,4 @@ GitHub Usernames for Soton ECS 2017 year group
 * Byron Theobald - [btheobald](https://github.com/btheobald)
 * Atanas Yankov - [atanunq](https://github.com/atanunq)
 * Kemal - [kyesildagli](https://github.com/kyesildagli)
+* Vlad Lazar - [VladLazar](https://github.com/VladLazar)
